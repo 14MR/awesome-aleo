@@ -176,6 +176,7 @@ The following is a curated list of applications powered by Aleo.
 - [LSP Finance](https://www.lsp.finance/) – Staking services
 - [Money Market](https://github.com/venture23-aleo/money-market) – *[In Development]*  
 - [Proof of Bitcoin](https://github.com/vicsn/snarkvm-btc-balance-verification/tree/ecdsa) - Proof of Bitcoin reserves on Aleo: lock sats, generate zero-knowledge proofs, and publicly verify whale balances—no double-spend, all private by design.
+- [Shield Swap](https://shield.fi) - A confidential, concentrated-liquidity AMM on Aleo that lets desks trade on-chain without revealing their portfolio
 
 ### Explorers
 
@@ -291,17 +292,17 @@ The following is a curated list of applications powered by Aleo.
 
 - [Avail Wallet](https://github.com/AvailX/avail-wallet) – A mobile wallet on Aleo focused on enabling real world use of private self custody.
 - [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo
-- [Leo Wallet](https://www.demoxlabs.xyz/) – A simple and private wallet for Aleo.
 - [Fox Wallet](https://foxwallet.com/) – Multi-chain extension & mobile wallet.
 - [Puzzle Wallet](https://puzzle.online/wallet) – A mobile and extension wallet with Aleo Account Abstraction to explore Aleo, play zkGames & earn rewards
 - [Soter Wallet](https://sotertech.io/) – Digital crypto wallet for Aleo blockchain 
+- [Shield](https://shield.app) – The official wallet of Aleo, keeping sender, receiver, and amounts private, with support for the USDCx and USAD private stablecoins
 
 ### Wallet SDKs & More
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
 - [Aleo Faucet Soter](https://faucetbeta.sotertech.io/) - Request Aleo Tokens from Soter on Testnet Beta
 - [Puzzle SDK](https://docs.puzzle.online/) - A SDK for integrating with Puzzle, Avail and any other WalletConnect based wallets.
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
-- [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
+- [Aleo Dev Toolkit](https://github.com/ProvableHQ/aleo-dev-toolkit) - The official wallet adapter, React hooks, and types packages for connecting dApps to Aleo wallets, with adapters for Shield, Puzzle, and Fox
 - [Aleo Wallet Connect Standards](https://docs.puzzle.online/sdk-free/overview/) - A walletconnect standard for Aleo wallets
 - [Aleo Wallet Hooks](https://github.com/OrdosHQ/aleo-hooks) – Integrate Aleo wallets easily  
 - [iOS Swift Aleo Wallet Starter Kit](https://github.com/puzzlehq/zksummit_ios_workshop) - A workshop & repo for getting started making your own Aleo iOS client
